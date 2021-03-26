@@ -2,7 +2,7 @@ title: Tangledpath
 description: "Home"
 google_analytics: 
 show_downloads: false
-theme: jekyll-theme-modernist
+theme: jekyll-theme-hacker
 
 gems:
   - jekyll-mentions
