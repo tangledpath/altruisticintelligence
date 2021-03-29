@@ -1,2 +1,2 @@
-### Tangled Path Projects.
-This is the home page for Tangled Path Projects.
+### AltruisticIntelligence.AI / Tangled Path Projects.
+This is the home page
