@@ -1,14 +1,19 @@
 # Altruistic AI
 ##### altruisticIntelligence.AI
 
-| <img src="https://user-images.githubusercontent.com/6759449/112885810-cd5f4880-9096-11eb-80c5-94ca9d515a33.jpeg" width="240"> |  <img src="https://user-images.githubusercontent.com/6759449/112885631-99842300-9096-11eb-85d7-d0c0272465ae.png" width="240"> |
-| :----- | -----: |
+ <img src="https://user-images.githubusercontent.com/6759449/112885810-cd5f4880-9096-11eb-80c5-94ca9d515a33.jpeg" width="240">   <img src="https://user-images.githubusercontent.com/6759449/112885631-99842300-9096-11eb-85d7-d0c0272465ae.png" width="240"> 
+
 
 ## Quick links:
-| [Stress Sentinel](https://github.com/tangledpath/altruisticintelligence/blob/master/index.md#stress-sentinel) | [Anonymizer](https://github.com/tangledpath/altruisticintelligence/blob/master/index.md#anonymizer) | [Communication Master](https://github.com/tangledpath/altruisticintelligence/blob/master/index.md#communication-master) | [FOUNDATION](https://github.com/tangledpath/altruisticintelligence/blob/master/index.md#foundation) | [open source](https://github.com/tangledpath/altruisticintelligence/blob/master/index.md#open-source) |
-| --- | --- | --- | --- | --- |
+* [Stress Sentinel](https://github.com/tangledpath/altruisticintelligence/blob/master/index.md#stress-sentinel) 
+* [Anonymizer](https://github.com/tangledpath/altruisticintelligence/blob/master/index.md#anonymizer) 
+* [Communication Master](https://github.com/tangledpath/altruisticintelligence/blob/master/index.md#communication-master) 
+* [FOUNDATION](https://github.com/tangledpath/altruisticintelligence/blob/master/index.md#foundation) 
+* [open source](https://github.com/tangledpath/altruisticintelligence/blob/master/index.md#open-source) 
 
-**_altruistism_** : unselfish regard for or devotion to the welfare of others
+
+**_altruistism_** : 
+> unselfish regard for or devotion to the welfare of others
 
 ## Products
 
