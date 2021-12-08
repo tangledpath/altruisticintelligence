@@ -8,7 +8,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/6759449/112885631-99842300-9096-11eb-85d7-d0c0272465ae.png" width="280"> | <img src="https://user-images.githubusercontent.com/6759449/112885810-cd5f4880-9096-11eb-80c5-94ca9d515a33.jpeg" width="280"> 
- --- | --: 
+--- | ---
 
 
 
@@ -37,4 +37,7 @@ We will allow individuals (real person with one vote per company) to rate the to
 
 ## Open Source 
 # [Ruby Fann](https://github.com/tangledpath/ruby-fann)
-# etc, to do
+# [Ruby State Machine](https://github.com/tangledpath/ruby-state-machine)
+# [More](https://github.com/tangledpath)
+
+
