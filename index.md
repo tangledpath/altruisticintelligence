@@ -19,8 +19,9 @@ Service which Monitors anonymized employee data to predict and proactively manag
 * BullyGuard - Stop bullying before it becomes a problem. Bullies are sneaky; they hit when the teacher isn’t looking. They are good at victim-blaming, you know, the person who has been mentally tortured in ways that are often hard to quantify. Fortunately we learned everything about bullies; how they bully, how they hide it, and how they behave. We can also identify their possible victims, sometimes before the target feels victimized. 
 ---
 
-### Anonymyzer 
+### Anonymizer 
 Anonymizes private data for the purposes of machine learning and life improvement. (Blah blah certified).  We also only partner with companies who are (blah blah certified), and also meet our stricter Cygnus standard. 
+
 ---
 ### Communication Master
 * Analyzes employee communication feeds and schedules. 
