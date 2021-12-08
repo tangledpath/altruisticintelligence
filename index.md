@@ -1,16 +1,16 @@
-Stress Sentinel | Anonymizer | Communication Master | FOUNDATION | open source
+# Altruistic AI
+##### altruisticIntelligence.AI
+**_altruistism_** : unselfish regard for or devotion to the welfare of others
+
+## Quick links:
+[Stress Sentinel](stress-sentinel) | [Anonymizer](anonymizer) | [Communication Master](communication-master) | [FOUNDATION](foundation) | [open source](open-source)
 --- | --- | --- | --- | ---
 
 
-### AltruisticIntelligence.AI
-<img src="https://user-images.githubusercontent.com/6759449/112885631-99842300-9096-11eb-85d7-d0c0272465ae.png" width="320"> | <img src="https://user-images.githubusercontent.com/6759449/112885810-cd5f4880-9096-11eb-80c5-94ca9d515a33.jpeg" width="320"> 
- --- | --- 
-
-**_altruistism_** : unselfish regard for or devotion to the welfare of others
+<img src="https://user-images.githubusercontent.com/6759449/112885631-99842300-9096-11eb-85d7-d0c0272465ae.png" width="280"> | <img src="https://user-images.githubusercontent.com/6759449/112885810-cd5f4880-9096-11eb-80c5-94ca9d515a33.jpeg" width="280"> 
+ --- | --: 
 
 
-# Altruistic AI
-##### altruisticIntelligence.AI
 
 ## Products
 
